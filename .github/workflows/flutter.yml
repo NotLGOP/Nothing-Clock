@@ -1,7 +1,7 @@
 name: Build Flutter APK
 
 on:
-  workflow_dispatch: # run manually from Actions tab
+  workflow_dispatch: # run manually from Actions tab.
 
 jobs:
   build:
